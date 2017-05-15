@@ -1,4 +1,4 @@
-<?php
+&lt;?php
 /**
  * TV Input Types English lexicon topic
  *
